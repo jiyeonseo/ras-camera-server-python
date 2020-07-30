@@ -1,8 +1,8 @@
 # Rasberry-pi camera server
 
-## Useing camera module in Rasberrypi
+## Using camera module in Rasberrypi
 ```
-
+raspistill -o image.jpg
 ```
 
 ## Prerequisites 

@@ -9,4 +9,6 @@ def take():
     if camera: 
         camera.capture('./image.jpg')
         return 'image.jpg'
+    else:
+        return 'sponge.jpg'
 
